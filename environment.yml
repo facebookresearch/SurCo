@@ -1,0 +1,46 @@
+name: surco
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  # - cython # TODO find if this is needed
+  # - cvxopt # TODO find if this is needed
+  - fire # TODO find if this is needed
+  - faker
+  # - future
+  - gym
+  - ipdb
+  - jupyter
+  - matplotlib
+  - networkx
+  - numpy
+  # - opencv # TODO find if this is needed
+  # - openssl # TODO find if this is needed
+  - pandas
+  # - parse # TODO find if this is needed
+  # - plotly
+  - pytest
+  - pytorch
+  - pytorch-cuda=11.8
+  # - pytorch-cuda=11.8
+  # - pytorch-gpu
+  - scikit-image
+  - scikit-learn
+  - scipy
+  - pyscipopt
+  - cvxpy
+  - seaborn
+  # - submitit
+  - torchvision
+  - tqdm
+  - wandb
+  - openpyxl
+  - scikit-build
+  - jinja2
+  - ninja
+  - cmake
+  - pip
+  - pip:
+    - cvxpylayers
