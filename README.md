@@ -1,5 +1,13 @@
 # SurCo
 
+Codebase for SurCo: Learning Linear SURrogates for COmbinatorial Nonlinear Optimization Problems
+
+by [Aaron Ferber](https://aaron-ferber.github.io/), [Taoan Huang](https://taoanhuang.github.io/), [Daochen Zha](https://dczha.com/), [Martin Schubert](https://scholar.google.com/citations?user=b1Yhd7cAAAAJ), [Benoit Steiner](bsteiner.info), [Bistra Dilkina](https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra), and [Yuandong Tian](https://yuandong-tian.com/)
+
+project page: https://sites.google.com/usc.edu/surco/
+
+ICML link: https://icml.cc/virtual/2023/poster/24312
+
 ## Installation instructions
 Each setting has its own installation instructions and requirements.
 
